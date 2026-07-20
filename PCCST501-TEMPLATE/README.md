@@ -4,9 +4,9 @@
 
 | Field | Details |
 |---|---|
-| Name | |
-| Register Number | |
-| GitHub Username | |
+| Name |Muhammed Aboobakker N S |
+| Register Number |VJC24CS145|
+| GitHub Username |muhammedaboobakkerns |
 | Class | S5 CSE |
 | College | Viswajyothi College of Engineering and Technology |
 
